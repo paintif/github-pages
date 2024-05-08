@@ -1,5 +1,5 @@
 ---
-title: "GITHUB_PAGES_DESCRIPTION"
+title: "github_pages入门"
 date: 2024-05-08
 ---
 ## 前置知识
